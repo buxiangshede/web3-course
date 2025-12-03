@@ -41,8 +41,6 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^6.1.0",
     "@types/node": "^24.10.1",
-    "@types/react": "^19.2.7",
-    "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.4.22",
     "css-loader": "^7.1.2",
     "dotenv-webpack": "^8.1.1",
